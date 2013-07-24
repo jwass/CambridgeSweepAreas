@@ -189,7 +189,7 @@
             "special": "July 9 2013",
             "area": "A"
         },
-        "id": null
+        "id": "A"
     },
     "C": {
         "geometry": {
@@ -337,7 +337,7 @@
             "special": "Sep 20 2013, Oct 29 2013",
             "area": "C"
         },
-        "id": null
+        "id": "C"
     },
     "B": {
         "geometry": {
@@ -481,7 +481,7 @@
             "special": "Aug 29 2013",
             "area": "B"
         },
-        "id": null
+        "id": "B"
     },
     "E": {
         "geometry": {
@@ -661,7 +661,7 @@
             "special": "",
             "area": "E"
         },
-        "id": null
+        "id": "E"
     },
     "D": {
         "geometry": {
@@ -843,7 +843,7 @@
             "special": "",
             "area": "D"
         },
-        "id": null
+        "id": "D"
     },
     "G": {
         "geometry": {
@@ -1067,7 +1067,7 @@
             "special": "",
             "area": "G"
         },
-        "id": null
+        "id": "G"
     },
     "F": {
         "geometry": {
@@ -1207,7 +1207,7 @@
             "special": "Apr 29 2013",
             "area": "F"
         },
-        "id": null
+        "id": "F"
     },
     "H": {
         "geometry": {
@@ -1315,7 +1315,7 @@
             "special": "May 29 2013",
             "area": "H"
         },
-        "id": null
+        "id": "H"
     },
     "K": {
         "geometry": {
@@ -1607,7 +1607,7 @@
             "special": "Nov 29 2013",
             "area": "K"
         },
-        "id": null
+        "id": "K"
     },
     "J": {
         "geometry": {
@@ -2021,6 +2021,6 @@
             "special": "",
             "area": "J"
         },
-        "id": null
+        "id": "J"
     }
 }
